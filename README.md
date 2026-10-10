@@ -12,5 +12,5 @@ Python • SQL • C • Arduino • Git & GitHub
 - [CS50 AI Projects](https://github.com/ZEyad69/CS50AI-Projects): Python implementations of Harvard's CS50 AI projects
 
 ## 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/zzeyad123)
-- 📧 [your.email@gmail.com](mailto:zbakr2168@gmail.com)
+-💼 [LinkedIn](https://www.linkedin.com/in/zzeyad123)
+-📧 [zbakr2168@gmail.com](mailto:zbakr2168@gmail.com)
