@@ -1,17 +1,37 @@
-# Hi, I'm Zeyad 👋
+# Hi, I'm Zeyad Bakr 👋
 
-Computer & Communications Engineering student at **Mansoura University**, focused on **Data Engineering** and **Artificial Intelligence**.
+### Computer and Communications Engineering Student | AI & Machine Learning
 
-## 🛠 Skills
-Python • SQL • C • Arduino • Git & GitHub
+I'm an engineering student from Egypt interested in Artificial Intelligence, Machine Learning, and Software Development.
 
-## 📜 Certifications
-- [Harvard CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/10b92cb2-d522-4844-a661-022292298d84)
+I enjoy building practical projects, solving problems, and continuously improving my technical skills.
 
-## 🚧 Currently Working On
-- Building an end-to-end **ETL pipeline** with Python and SQL
-- Deepening my knowledge of **databases** and **machine learning**
+### 🛠️ Skills & Technologies
 
-## 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/zzeyad123)
-- 📧 [zbakr2168@gmail.com](mailto:zbakr2168@gmail.com)
+- **Programming:** Python, C, C++
+- **AI & Machine Learning:** AI fundamentals, machine learning concepts
+- **Databases:** SQL
+- **Web Development:** HTML
+- **Hardware & Embedded Systems:** Arduino
+
+### 📚 Learning Journey
+
+- Completed CS50's Introduction to Artificial Intelligence with Python
+- Completed Python for AI learning
+- Completed SQL learning
+- Currently studying Andrew Ng's Machine Learning course
+- Built university projects using Arduino
+
+### 🚀 Featured Projects
+
+- **SignalSleuth** — An ongoing Python-based project focused on time-series anomaly detection and reliable evaluation.
+- **CS50 AI Projects** — Completed as part of my AI learning journey. Source code is kept private in accordance with course policy.
+
+### 📫 Connect With Me
+
+- **GitHub:** [@ZEyad69](https://github.com/ZEyad69)
+- **Email:** zbakr2168@gmail.com
+
+---
+
+*Always learning, building, and exploring new ideas in AI.*
