@@ -16,7 +16,7 @@ I enjoy building practical projects, solving problems, and continuously improvin
 
 ### 📜 Certifications & Learning Journey
 
-- **[CS50's Introduction to Artificial Intelligence with Python](https://certificates.cs50.io/10b92cb2-d522-4844-a661-022292298d84)** — Harvard University, 2026 — Harvard University, 2026
+- **[CS50's Introduction to Artificial Intelligence with Python](https://certificates.cs50.io/10b92cb2-d522-4844-a661-022292298d84)** — Harvard University, 2026 
 - Completed Python for AI learning
 - Completed SQL learning
 - Currently studying Andrew Ng's Machine Learning course
